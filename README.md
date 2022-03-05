@@ -1,4 +1,4 @@
-### Hi, I'm Ruhuang 👋
+## Hi, I'm Ruhuang 👋
 
 - :school: A computer science student at [Zhengzhou University of Light Industry](http://www.zzuli.edu.cn/)
 - :books: I’m currently learning [Operating System](https://pages.cs.wisc.edu/~remzi/OSTEP/) and [Writing an OS in Rust](https://os.phil-opp.com/)
