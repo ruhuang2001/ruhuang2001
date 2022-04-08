@@ -11,7 +11,7 @@ on:
 env:
   GITHUB_NAME: ruhuang2001
   GITHUB_EMAIL: ruhuang2001@gmail.com
-  STARRED_NUM: 10
+  WITH_STARED: false
 
 jobs:
   build:
@@ -22,7 +22,7 @@ jobs:
       - name: My GitHub Status
         uses: ruhuang2001/github-readme-stats@main
         with:
-          STARRED_NUM: ${{ env.STARRED_NUM }}
+          WITH_STARED: ${{ env.WITH_STARED }}
 
       - name: Push README
         uses: github-actions-x/commit@v2.6
