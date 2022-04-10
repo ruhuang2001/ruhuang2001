@@ -3,7 +3,7 @@ name: GitHub README STATS
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 1"
   push:
     branches:
       - main
@@ -28,7 +28,7 @@ jobs:
         uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Refresh README github-stats"
+          commit-message: "Update README github-stats"
           files: README.md
           rebase: "true"
           name: ${{ env.GITHUB_NAME }}
