@@ -28,7 +28,7 @@ jobs:
           WITH_STARED: ${{ env.WITH_STARED }}
 
       - name: Push README
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update README github-stats"
