@@ -28,11 +28,11 @@ jobs:
           WITH_STARED: ${{ env.WITH_STARED }}
 
       - name: Push README
-        uses: github-actions-x/commit@v2.6.2
+        uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update README github-stats"
           files: README.md
           rebase: "true"
-          name: ${{ env.GITHUB_NAME }}
-          email: ${{ env.GITHUB_EMAIL }}
+          name: ruhuang2001
+          email: ruhuang2001@gmail.com
