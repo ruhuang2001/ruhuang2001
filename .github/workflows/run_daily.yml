@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: work around permission issue
-        run: git config --global --add safe.directory /__w/ruhuang2001/ruhuang2001
+        run: git config --global --add safe.directory /ruhuang2001/ruhuang2001
     
       - uses: actions/checkout@v2
       - name: My GitHub Status
@@ -28,7 +28,7 @@ jobs:
           WITH_STARED: ${{ env.WITH_STARED }}
 
       - name: Push README
-        uses: github-actions-x/commit@v2.6
+        uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Update README github-stats"
