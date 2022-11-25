@@ -1,0 +1,38 @@
+name: GitHub README STATS
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1"
+  push:
+    branches:
+      - main
+
+env:
+  GITHUB_NAME: ruhuang2001
+  GITHUB_EMAIL: ruhuang2001@gmail.com
+  WITH_STARED: false
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: work around permission issue
+        run: git config --global --add safe.directory /__w/ruhuang2001/ruhuang2001
+    
+      - uses: actions/checkout@v2
+      - name: My GitHub Status
+        uses: ruhuang2001/github-readme-stats@main
+        with:
+          WITH_STARED: ${{ env.WITH_STARED }}
+
+      - name: Push README
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Update README github-stats"
+          files: README.md
+          rebase: "true"
+          name: ruhuang2001
+          email: ruhuang2001@gmail.com
