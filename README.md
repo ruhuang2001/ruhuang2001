@@ -4,7 +4,7 @@
 - :books: I’m currently learning C++ and [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -14,21 +14,21 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 42 mins       ██████████████░░░░░░░░░░░   58.73% 
-C                        53 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.16% 
-C++                      50 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.35% 
-Objective-C              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75%
+Markdown                 49 mins             ██████████████░░░░░░░░░░░   55.84% 
+C                        25 mins             ███████░░░░░░░░░░░░░░░░░░   28.7% 
+C++                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 🔥 Editors: 
-VS Code                  4 hrs 36 mins       █████████████████████████   100.0%
+VS Code                  1 hr 28 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    4 hrs 36 mins       █████████████████████████   100.0%
+Linux                    1 hr 28 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 16/12/2022 15:35:58 UTC
+ Last Updated on 17/12/2022 15:34:47 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
