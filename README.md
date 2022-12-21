@@ -4,7 +4,7 @@
 - :books: I’m currently learning C++ and [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -31,7 +31,7 @@ Windows                  1 hr 37 mins        ███████████�
 ```
 
 
- Last Updated on 20/12/2022 15:37:12 UTC
+ Last Updated on 21/12/2022 15:37:07 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
