@@ -6,10 +6,26 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 
- Last Updated on 02/01/2023 15:34:29 UTC
+ Last Updated on 03/01/2023 15:35:35 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
