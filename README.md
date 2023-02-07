@@ -4,7 +4,7 @@
 - :books: I’m currently learning C++ and [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -15,7 +15,7 @@
 
 💬 Programming Languages: 
 Markdown                 18 mins             ██████████░░░░░░░░░░░░░░░   40.77% 
-C++                      18 mins             ██████████░░░░░░░░░░░░░░░   40.01% 
+C++                      18 mins             ██████████░░░░░░░░░░░░░░░   40.02% 
 Makefile                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
@@ -29,7 +29,7 @@ Linux                    45 mins             ███████████�
 ```
 
 
- Last Updated on 06/02/2023 15:35:59 UTC
+ Last Updated on 07/02/2023 15:35:38 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
