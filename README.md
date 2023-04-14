@@ -4,34 +4,28 @@
 - :books: I’m currently learning C++ and [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      52 mins             ██████████████████████░░░   90.71 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+C++                      0 secs              ████████████████████████░   96.06 % 
+CMake                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🔥 Editors: 
-CLion                    53 mins             ███████████████████████░░   92.97 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+CLion                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  53 mins             ███████████████████████░░   92.97 % 
-Linux                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2023 15:35:51 UTC
+ Last Updated on 14/04/2023 15:15:24 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
