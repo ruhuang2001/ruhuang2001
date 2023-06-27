@@ -14,17 +14,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SSH Config               6 mins              ███████████████████░░░░░░   74.77 % 
+XML                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2023 15:35:07 UTC
+ Last Updated on 27/06/2023 15:35:36 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
