@@ -4,7 +4,7 @@
 - :books: I’m currently learning C++ and [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,18 +14,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-SSH Config               6 mins              ███████████████████░░░░░░   74.77 % 
-XML                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+SSH Config               6 mins              ███████████░░░░░░░░░░░░░░   44.31 % 
+Python                   6 mins              ██████████░░░░░░░░░░░░░░░   40.73 % 
+XML                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/06/2023 15:35:36 UTC
+ Last Updated on 28/06/2023 15:35:17 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
