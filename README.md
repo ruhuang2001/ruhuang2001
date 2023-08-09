@@ -1,7 +1,7 @@
 ## Hi, I'm Ruhuang 👋
 
-- 💻: A Linux C++ programmer at a small company
-- 📚: Currently learning Sqlite source code and hope to make a toy database
+- 💻 A Linux C++ programmer at a small company
+- 📚 Currently learning Sqlite source code and hope to make a toy database
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2029%20mins-blue)
