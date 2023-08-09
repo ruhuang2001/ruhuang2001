@@ -1,7 +1,7 @@
 ## Hi, I'm Ruhuang 👋
 
-- :school: A computer science student at [Zhengzhou University of Light Industry](http://www.zzuli.edu.cn/)
-- :books: I’m currently learning C++ and [CMU 15-445](https://15445.courses.cs.cmu.edu/fall2022/)
+- 💻: A Linux C++ programmer at a small company
+- 📚: Currently learning Sqlite source code and hope to make a toy database
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2029%20mins-blue)
