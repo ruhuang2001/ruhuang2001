@@ -4,7 +4,7 @@
 - Currently learning Sqlite source code and hope to make a toy database
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -24,7 +24,7 @@ Windows                  9 mins              ███████████�
 ```
 
 
- Last Updated on 21/09/2023 15:35:15 UTC
+ Last Updated on 22/09/2023 15:35:02 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
