@@ -14,8 +14,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Ezhil                    7 mins              █████████████████████████   98.49 % 
-TSQL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Ezhil                    7 mins              █████████████████████████   98.48 % 
+TSQL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
 VS Code                  7 mins              █████████████████████████   100.00 % 
@@ -25,7 +25,7 @@ Windows                  7 mins              ███████████�
 ```
 
 
- Last Updated on 20/10/2023 15:35:00 UTC
+ Last Updated on 21/10/2023 15:34:14 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
