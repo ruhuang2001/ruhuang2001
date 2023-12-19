@@ -4,7 +4,7 @@
 - Currently learning Sqlite source code and hope to make a toy database
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,10 +14,10 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      38 mins             ██████████████████████░░░   87.20 % 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+C++                      38 mins             ██████████████████████░░░   87.01 % 
+Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 Prolog                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
@@ -28,7 +28,7 @@ Windows                  44 mins             ███████████�
 ```
 
 
- Last Updated on 18/12/2023 15:34:38 UTC
+ Last Updated on 19/12/2023 15:34:57 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
