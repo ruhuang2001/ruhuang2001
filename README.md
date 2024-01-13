@@ -14,19 +14,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     16 mins             ██████████████████░░░░░░░   70.47 % 
-XML                      6 mins              ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             19 mins             █████████████████████░░░░   82.66 % 
-VS Code                  4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/01/2024 15:35:03 UTC
+ Last Updated on 13/01/2024 15:34:32 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
