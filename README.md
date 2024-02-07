@@ -4,9 +4,9 @@
 - Currently learning Sqlite source code and hope to make a toy database
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,22 +14,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 49 mins       ██████████████████░░░░░░░   73.73 % 
-XML                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Java                     6 hrs 26 mins       ███████████████████░░░░░░   75.64 % 
+XML                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+SQL                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Intellijidea             5 hrs 47 mins       ██████████████████░░░░░░░   73.42 % 
-VS Code                  2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Intellijidea             6 hrs 17 mins       ███████████████████░░░░░░   74.03 % 
+VS Code                  2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
 
 💻 Operating System: 
-Windows                  7 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/02/2024 15:34:31 UTC
+ Last Updated on 07/02/2024 15:35:25 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
