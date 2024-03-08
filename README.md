@@ -14,21 +14,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-XML                      1 hr 14 mins        ████████████░░░░░░░░░░░░░   48.52 % 
-SQL                      41 mins             ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Java                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-YAML                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/03/2024 15:35:37 UTC
+ Last Updated on 08/03/2024 15:34:22 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
