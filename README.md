@@ -14,17 +14,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 19 mins        █████████████████████░░░░   83.34 % 
+HTML                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/03/2024 15:34:49 UTC
+ Last Updated on 28/03/2024 15:35:49 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
