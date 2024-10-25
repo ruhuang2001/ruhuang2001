@@ -4,7 +4,7 @@
 - Currently design an IOS app (maybe need long time)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,21 +14,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.34 % 
-Other                    13 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Bash                     13 mins             ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-YAML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Other                    13 mins             ███████████░░░░░░░░░░░░░░   45.17 % 
+Bash                     13 mins             ███████████░░░░░░░░░░░░░░   43.15 % 
+YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  30 mins             ████████████████░░░░░░░░░   62.61 % 
-Linux                    18 mins             █████████░░░░░░░░░░░░░░░░   37.39 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/10/2024 15:37:53 UTC
+ Last Updated on 25/10/2024 15:37:24 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
