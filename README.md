@@ -4,7 +4,7 @@
 - Currently design an IOS app (maybe need long time)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -34,7 +34,7 @@ WSL                      14 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 16/11/2024 15:33:38 UTC
+ Last Updated on 17/11/2024 15:33:34 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
