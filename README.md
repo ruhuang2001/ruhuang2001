@@ -1,8 +1,9 @@
-## Hi, I'm Ruhuang 👋
+## Hi, I'm ruhuang 👋
 
-- A Linux C++ programmer at a small company
-- Currently design an IOS app (maybe need long time)
-
+- A C++/Golang programmer at a small company, working on gateway and cryptography
+- Currently design an IOS app about recording (still in very early stages)
+- Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
+- Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2034%20mins-blue)
 
@@ -35,4 +36,3 @@ Linux                    11 mins             █░░░░░░░░░░�
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhuang2001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
