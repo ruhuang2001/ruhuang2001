@@ -15,22 +15,17 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       5 hrs 1 min         ████████████████████████░   96.49 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-go.mod                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-GoLand                   4 hrs 42 mins       ███████████████████████░░   90.42 % 
-Cursor                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    5 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/02/2025 15:32:15 UTC
+ Last Updated on 03/02/2025 15:33:03 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
