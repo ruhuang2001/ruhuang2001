@@ -5,7 +5,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-426%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -15,22 +15,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 28 mins       ██████████████░░░░░░░░░░░   57.09 % 
-Markdown                 2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Git Config               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Go                       8 hrs 6 mins        ███████████████░░░░░░░░░░   60.89 % 
+Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Git Config               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-GoLand                   8 hrs 14 mins       ██████████████████░░░░░░░   72.68 % 
-Windsurf                 3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+GoLand                   9 hrs 22 mins       ██████████████████░░░░░░░   70.46 % 
+Windsurf                 3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
 
 💻 Operating System: 
-Mac                      11 hrs 20 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2025 15:36:45 UTC
+ Last Updated on 10/04/2025 15:35:37 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
