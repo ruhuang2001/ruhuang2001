@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -31,7 +31,7 @@ Mac                      16 hrs 23 mins      ███████████�
 ```
 
 
- Last Updated on 26/04/2025 15:33:02 UTC
+ Last Updated on 27/04/2025 15:33:20 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
