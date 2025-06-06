@@ -4,9 +4,9 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,22 +14,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   40.35 % 
-Other                    38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Dart                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-C++                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Go                       6 hrs 21 mins       ████████████████░░░░░░░░░   64.74 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Dart                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Windsurf                 4 hrs 30 mins       █████████████████████████   99.64 % 
-GoLand                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+GoLand                   5 hrs 34 mins       ██████████████░░░░░░░░░░░   56.81 % 
+Windsurf                 4 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.19 % 
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2025 15:36:19 UTC
+ Last Updated on 06/06/2025 15:34:55 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
