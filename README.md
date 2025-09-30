@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -14,21 +14,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.87 % 
-Vue.js                   43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Java Properties          22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+JSON                     1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.07 % 
+Go                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Vue.js                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 
 🔥 Editors: 
-Windsurf                 4 hrs 13 mins       █████████████████████████   100.00 % 
+Windsurf                 4 hrs 16 mins       █████████████████░░░░░░░░   69.57 % 
+GoLand                   1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.43 % 
 
 💻 Operating System: 
-Mac                      4 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/09/2025 15:34:46 UTC
+ Last Updated on 30/09/2025 15:33:55 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
