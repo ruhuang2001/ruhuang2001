@@ -6,7 +6,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,17 +14,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       1 hr 42 mins        ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Markdown                 1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+YAML                     1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+C                        36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+NSIS                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Windsurf                 4 hrs 21 mins       ████████████████████░░░░░   81.68 % 
+GoLand                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 44 mins       ██████████████████░░░░░░░   70.32 % 
+Windows                  1 hr 34 mins        ███████░░░░░░░░░░░░░░░░░░   29.68 % 
 ```
 
 
- Last Updated on 09/10/2025 15:40:41 UTC
+ Last Updated on 10/10/2025 15:33:51 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
