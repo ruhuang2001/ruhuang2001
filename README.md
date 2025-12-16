@@ -4,9 +4,9 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,23 +14,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       4 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.05 % 
-Objective-C              3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Markdown                 2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Kotlin                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-HTML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Go                       5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
+Objective-C              5 hrs               █████████░░░░░░░░░░░░░░░░   34.40 % 
+Markdown                 1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Swift                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+HTML                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
 
 🔥 Editors: 
-Windsurf                 9 hrs 22 mins       █████████████████░░░░░░░░   68.10 % 
-GoLand                   4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
+Windsurf                 9 hrs 27 mins       ████████████████░░░░░░░░░   65.03 % 
+GoLand                   5 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
 
 💻 Operating System: 
-Mac                      12 hrs 55 mins      ███████████████████████░░   93.89 % 
-Windows                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Mac                      13 hrs 43 mins      ████████████████████████░   94.22 % 
+Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 ```
 
 
- Last Updated on 15/12/2025 15:38:17 UTC
+ Last Updated on 16/12/2025 15:37:31 UTC
 <!--END_SECTION:waka-->
 
 ![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
