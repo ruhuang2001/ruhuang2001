@@ -32,6 +32,3 @@ Windows                  0 secs              ░░░░░░░░░░░�
 
  Last Updated on 06/01/2026 15:37:48 UTC
 <!--END_SECTION:waka-->
-
-![Ruhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruhuang2001&count_private=true&hide_title=true&show_icons=true&theme=vue)
-
