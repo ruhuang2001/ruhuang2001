@@ -4,9 +4,9 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C163%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -14,20 +14,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-Go                       2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-Objective-C              1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Bash                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Go                       4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.89 % 
+Markdown                 2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Objective-C              2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔥 Editors: 
-Windsurf                 7 hrs 16 mins       █████████████████████░░░░   85.59 % 
-GoLand                   1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Windsurf                 9 hrs 20 mins       ████████████████████░░░░░   80.16 % 
+GoLand                   2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 
 💻 Operating System: 
-Mac                      8 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/01/2026 15:39:23 UTC
+ Last Updated on 08/01/2026 15:39:23 UTC
 <!--END_SECTION:waka-->
