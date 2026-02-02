@@ -4,6 +4,8 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C213%20hrs%2057%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -29,5 +31,5 @@ Windows                  9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/02/2026 15:39:07 UTC
+ Last Updated on 02/02/2026 15:44:07 UTC
 <!--END_SECTION:waka-->
