@@ -14,20 +14,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 12 mins       ███████████████░░░░░░░░░░   60.87 % 
-Python                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Objective-C              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Go                       3 hrs 53 mins       ████████████████░░░░░░░░░   65.34 % 
+Python                   54 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Markdown                 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Objective-C              7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Windsurf                 4 hrs 48 mins       ███████████████████████░░   91.33 % 
-GoLand                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Windsurf                 5 hrs 29 mins       ███████████████████████░░   92.32 % 
+GoLand                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 
 💻 Operating System: 
-Mac                      5 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 17 mins       ██████████████████████░░░   88.88 % 
+Windows                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 
 
- Last Updated on 02/03/2026 15:45:14 UTC
+ Last Updated on 03/03/2026 15:45:37 UTC
 <!--END_SECTION:waka-->
