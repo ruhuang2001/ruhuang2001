@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C238%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C244%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -14,22 +14,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       6 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.61 % 
-Markdown                 3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Objective-C              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-WiX Installer            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Go                       6 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.16 % 
+Markdown                 4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Objective-C              1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+WiX Installer            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Windsurf                 15 hrs 57 mins      ████████████████████████░   96.69 % 
-GoLand                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Windsurf                 17 hrs 10 mins      ████████████████████████░   96.92 % 
+GoLand                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      9 hrs 51 mins       ███████████████░░░░░░░░░░   59.68 % 
-Windows                  6 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.32 % 
+Mac                      11 hrs 3 mins       ████████████████░░░░░░░░░   62.43 % 
+Windows                  6 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
 ```
 
 
- Last Updated on 06/03/2026 15:44:26 UTC
+ Last Updated on 07/03/2026 15:38:07 UTC
 <!--END_SECTION:waka-->
