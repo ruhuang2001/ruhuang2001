@@ -14,21 +14,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.18 % 
-Go                       4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Objective-C              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-WiX Installer            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Markdown                 4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Go                       4 hrs               ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Objective-C              1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+WiX Installer            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Windsurf                 14 hrs 33 mins      █████████████████████████   98.79 % 
+Windsurf                 14 hrs 37 mins      █████████████████████████   98.79 % 
 VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Mac                      8 hrs 4 mins        ██████████████░░░░░░░░░░░   54.81 % 
-Windows                  6 hrs 39 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
+Mac                      8 hrs 9 mins        ██████████████░░░░░░░░░░░   55.06 % 
+Windows                  6 hrs 39 mins       ███████████░░░░░░░░░░░░░░   44.94 % 
 ```
 
 
- Last Updated on 08/03/2026 15:38:01 UTC
+ Last Updated on 09/03/2026 15:47:32 UTC
 <!--END_SECTION:waka-->
