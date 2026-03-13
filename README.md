@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C248%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C248%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -14,21 +14,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Objective-C              1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Other                    1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Java                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Markdown                 1 hr 40 mins        ██████████░░░░░░░░░░░░░░░   40.10 % 
+Objective-C              38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Java                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Vue.js                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 Editors: 
-Windsurf                 9 hrs 45 mins       █████████████████████████   98.20 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Windsurf                 4 hrs 7 mins        █████████████████████████   99.26 % 
+GoLand                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Mac                      5 hrs 10 mins       █████████████░░░░░░░░░░░░   52.19 % 
-Windows                  4 hrs 44 mins       ████████████░░░░░░░░░░░░░   47.81 % 
+Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/03/2026 15:47:30 UTC
+ Last Updated on 13/03/2026 15:45:11 UTC
 <!--END_SECTION:waka-->
