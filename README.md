@@ -14,20 +14,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   38.26 % 
-Vue.js                   46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-Java                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Markdown                 1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.10 % 
+Vue.js                   46 mins             ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-Windsurf                 3 hrs 7 mins        █████████████████████████   99.03 % 
-GoLand                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Windsurf                 3 hrs               █████████████████████████   98.99 % 
+GoLand                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/03/2026 15:41:14 UTC
+ Last Updated on 16/03/2026 15:49:36 UTC
 <!--END_SECTION:waka-->
