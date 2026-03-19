@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -14,20 +14,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 51 mins             ███████████░░░░░░░░░░░░░░   45.82 % 
-Vue.js                   42 mins             ██████████░░░░░░░░░░░░░░░   38.45 % 
-HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Markdown                 40 mins             ██████████░░░░░░░░░░░░░░░   41.81 % 
+Vue.js                   36 mins             █████████░░░░░░░░░░░░░░░░   37.65 % 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Go                       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Windsurf                 1 hr 49 mins        █████████████████████████   98.36 % 
-GoLand                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Windsurf                 1 hr 34 mins        █████████████████████████   98.09 % 
+GoLand                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/03/2026 15:52:43 UTC
+ Last Updated on 19/03/2026 15:46:54 UTC
 <!--END_SECTION:waka-->
