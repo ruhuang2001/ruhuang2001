@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C250%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -14,19 +14,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 38 mins             ███████████░░░░░░░░░░░░░░   45.74 % 
-Vue.js                   33 mins             ██████████░░░░░░░░░░░░░░░   39.28 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Markdown                 34 mins             █████████████████░░░░░░░░   67.70 % 
+HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Vue.js                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Windsurf                 1 hr 25 mins        █████████████████████████   100.00 % 
+Windsurf                 50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 25 mins        █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/03/2026 15:45:07 UTC
+ Last Updated on 21/03/2026 15:38:50 UTC
 <!--END_SECTION:waka-->
