@@ -14,19 +14,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 34 mins             █████████████████░░░░░░░░   67.70 % 
-HTML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Vue.js                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Markdown                 45 mins             ██████████████░░░░░░░░░░░   56.17 % 
+HTML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Other                    7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Vue.js                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Windsurf                 50 mins             █████████████████████████   100.00 % 
+Windsurf                 1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/03/2026 15:48:04 UTC
+ Last Updated on 24/03/2026 15:50:05 UTC
 <!--END_SECTION:waka-->
