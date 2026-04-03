@@ -4,7 +4,7 @@
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C255%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -14,21 +14,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-go.mod                   20 mins             ██████████░░░░░░░░░░░░░░░   40.42 % 
-Markdown                 15 mins             ████████░░░░░░░░░░░░░░░░░   31.66 % 
-YAML                     8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Go                       4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Go                       3 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+Other                    3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
+go.mod                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Windsurf                 25 mins             █████████████░░░░░░░░░░░░   50.74 % 
-GoLand                   24 mins             ████████████░░░░░░░░░░░░░   49.26 % 
+GoLand                   4 hrs 33 mins       ██████████████░░░░░░░░░░░   56.73 % 
+Windsurf                 3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
+Unknown Editor           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 💻 Operating System: 
-Windows                  36 mins             ██████████████████░░░░░░░   72.94 % 
-Mac                      13 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/04/2026 15:47:56 UTC
+ Last Updated on 03/04/2026 15:44:34 UTC
 <!--END_SECTION:waka-->
