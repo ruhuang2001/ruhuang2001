@@ -14,21 +14,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.05 % 
-Other                    3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
-go.mod                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Go                       3 hrs 36 mins       █████████████░░░░░░░░░░░░   51.09 % 
+Other                    3 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.82 % 
+HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-GoLand                   4 hrs 33 mins       ██████████████░░░░░░░░░░░   56.73 % 
-Windsurf                 3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-Unknown Editor           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+GoLand                   3 hrs 35 mins       █████████████░░░░░░░░░░░░   50.80 % 
+Windsurf                 3 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
+Unknown Editor           15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  7 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 15:45:45 UTC
+ Last Updated on 07/04/2026 15:57:37 UTC
 <!--END_SECTION:waka-->
