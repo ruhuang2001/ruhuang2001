@@ -1,33 +1,6 @@
-## Hi, I'm ruhuang 👋
+## Hi, I'm ruhuang2001 👋
 
-- A Golang programmer at a small company, working on gateway
+- A Golang programmer at a small company, working on Zero Trust, and exploring the use of AI in practical development
+- Currtently maintain open source project [Ink](https://github.com/MilkTeaFun/Ink) for fun
 - Don’t know me from the Internet, let’s meet in the real world and drink a cup of bubble tea together :)
 - Feel free to contact me via [email](mailto:ruhuang2001@gmail.com)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C271%20hrs%2023%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Go                       3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
-Other                    2 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.33 % 
-HTML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-WiX Installer            25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-
-🔥 Editors: 
-GoLand                   5 hrs 5 mins        ████████████████░░░░░░░░░   65.05 % 
-Windsurf                 2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.95 % 
-
-💻 Operating System: 
-Windows                  7 hrs 49 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/04/2026 15:44:06 UTC
-<!--END_SECTION:waka-->
